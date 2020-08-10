@@ -1,2 +1,2 @@
-# Twitter-Bot-
+# Twitter-Bot
 RPi based Twitter bot 
