@@ -8,4 +8,5 @@ It is sometimes desirable to identify when a Twitter account is controlled by a 
 •"Periodic and regular timing" of tweets;
 
 •Whether the tweet content contains known spam; and
+
 •The ratio of tweets from mobile versus desktop, as compared to an average human Twitter user.
