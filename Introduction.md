@@ -7,3 +7,7 @@ Twitter is a wonderful communication and social media platform. It has everythin
 - twython Python module using command “sudo pip3 install twython”.
 - Twython library of python is used to communicate with twitter API and facilitates streaming twitter API.
 - Apply for twitter API.
+
+Steps -
+1 Apply for a Twitter Developer account 
+2 Create a Twitter Application (pi bot)
