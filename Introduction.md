@@ -8,13 +8,24 @@ Twitter is a wonderful communication and social media platform. It has everythin
 - Twython library of python is used to communicate with twitter API and facilitates streaming twitter API.
 - Apply for twitter API.
 
-Steps -
+# Steps -
 1 Apply for a Twitter Developer account 
+
 2 Create a Twitter Application (pi bot)
-Set the date and time for the system 
-Now we have the API keys which will be used in the program for sending the tweets .
-Open Python 3 IDLE.
-We will Create a new file and paste your API keys from apps.twitter.com into variables.
-And , then we will Create another new file and import Twython from the twython module.
-We will make a connection with the Twitter API using this set of keys .
-This uses the API’s update_status() function to send a tweet containing the text.
+
+3 Set the date and time for the system 
+
+4 Now we have the API keys which will be used in the program for sending the tweets .
+
+5 Open Python 3 IDLE.
+
+6 We will Create a new file and paste your API keys from apps.twitter.com into variables.
+
+7 And , then we will Create another new file and import Twython from the twython module.
+
+8 We will make a connection with the Twitter API using this set of keys .
+
+9 This uses the API’s update_status() function to send a tweet containing the text.
+
+10 We can send some text as a tweet.
+
