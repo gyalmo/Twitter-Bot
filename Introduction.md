@@ -11,3 +11,10 @@ Twitter is a wonderful communication and social media platform. It has everythin
 Steps -
 1 Apply for a Twitter Developer account 
 2 Create a Twitter Application (pi bot)
+Set the date and time for the system 
+Now we have the API keys which will be used in the program for sending the tweets .
+Open Python 3 IDLE.
+We will Create a new file and paste your API keys from apps.twitter.com into variables.
+And , then we will Create another new file and import Twython from the twython module.
+We will make a connection with the Twitter API using this set of keys .
+This uses the API’s update_status() function to send a tweet containing the text.
