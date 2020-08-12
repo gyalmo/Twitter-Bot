@@ -22,12 +22,43 @@ DHT temperature & humidity sensors are made of two parts, a capacitive humidity 
      - No more than 1 Hz sampling rate (once every second)
      - Body size 15.5mm x 12mm x 5.5mm
      - 4 pins with 0.1" spacing
-     
-     Applications:
-     
+     - Applications:
        - Measure temperature and humidity
        - Local Weather station
        - Automatic climate control
        - Environment monitoring        
+  - Tri-color LED :
+A RGB LED is commonly used component in electronics, generally, as it is used for indication purpose. You can use RGB LED in various projects like portable flashlight, LED indicator etc. An RGB LED can also be used for work according to condition like for condition 1st Red will glow, for condition 2nd green will glow and for condition 3rd blue will glow. We can use three different LEDs to perform the same task but this will increase the size of circuit and take more space on PCB .
+    - Low Thermal Resistance
+    - No UV rays
+    - Super High flux Output and High luminance
+    - Forward Current for Red, Blue and Green color: 20mA
+    - Forward Voltage     
+      - Red: 2v (typical)
+      - Blue: 3.2(typical)
+      - Green: 3.2(typical)
+    - Luminous Intensity     
+      - Red: 800 mcd
+      - Blue: 4000 mcd
+      - Green: 900 mcd
+    - Wavelength     
+      - Red: 625 nm
+      - Blue: 520 nm
+      - Green: 467.5 nm
+    - Operating Temperature: -25 ℃ to 85 ℃
+    - Storage Temperature: -30 ℃ to 85 ℃
+    - Applications
+      - Industrial Application
+      - Portable Flashlight/ torchlight
+      - Light guides
+      - Decorative Lighting
+      - LCD backlight
+      - Multi-color Light
+ 
+                              
+
+                          
+
+
 
 
