@@ -22,6 +22,11 @@ DHT temperature & humidity sensors are made of two parts, a capacitive humidity 
      - No more than 1 Hz sampling rate (once every second)
      - Body size 15.5mm x 12mm x 5.5mm
      - 4 pins with 0.1" spacing
-
+     
+     Applications:
+       - Measure temperature and humidity
+       - Local Weather station
+       - Automatic climate control
+       - Environment monitoring        
 
 
