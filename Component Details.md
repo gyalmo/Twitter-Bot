@@ -24,6 +24,7 @@ DHT temperature & humidity sensors are made of two parts, a capacitive humidity 
      - 4 pins with 0.1" spacing
      
      Applications:
+     
        - Measure temperature and humidity
        - Local Weather station
        - Automatic climate control
