@@ -1,0 +1,8 @@
+# Simulation
+
+The device “TwitterBot” is built by using Raspberry Pi3 board and DHT sensor and is developed such that it tweets a refreshing morning quote at 4:00 AM every day and also measures the temperature of the room. If the temperature is less than 15 ºC then it turns off the AC and if more than 25 ºC the turns on the AC. Here AC is signified by a blue color LED.There are more than 1000 morning quotes defined in an external file(quotes.py) which is used by the program. The program chooses a quote each day and posts it on the twitter account of the user at 4:00 AM. Time is monitored by the program using python's time library. While performing the task of tweeting, the program turns on the green LED which is connected to the GPIO24 pin of the Raspberry Pi3 board as an indicator that Bot is tweeting something. This program communicates with the twitter API and makes a secure connection with the twitter server and accesses the user account using the authentication keys which are defined in another external python file(primary_key.py).
+
+_NOTE* (These authentication keys are highly confidential as by using these keys the twitter account can accessed anywhere anytime)_
+ 
+ This device also uses a DHT 11 sensor. This sensor is used to measure the temperature and humidity of the environment where it is placed. The data pin of this device is connected to the GPIO pin of the Raspberry Pi3 board. It is used in the device to measure the temperature of the room and if the temperature is less than 15 ºC then it turns off the AC and if more than 25 ºC then turns on the AC. Here AC is signified by a blue color LED which is connected to the GPIO14 pin of the Raspberry Pi3 board.
+  
