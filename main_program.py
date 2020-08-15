@@ -25,4 +25,14 @@ while(true):
      except:
        print("Please! Check your internet connection")
      finally:
+ GPIO.output(24,LOW)
+   else
+     if(ti.tm_hour>=5):
+       flag=false
+     humid,temp=Adafruit_DHT.read_retry(11,6)
+     if(temp<15):
+       GPIO.output(14,LOW)
+     else :
+       GPIO.output(14,HIGH)
+
 
